@@ -1,1 +1,5 @@
-# BitCampLectureSummary
+### 🖥️ **BitCampLectureSummary**
+
+---
+
+  2024년 4월 24일부터 네이버 클라우드 비트캠프(Java) 교육을 수강하며 요약한 내용들을 업로드 하는 공간입니다.
